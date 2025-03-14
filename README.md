@@ -21,3 +21,5 @@ Question: Write a Python program that creates a new list by multiplying each ele
 Question 5: Randomly Mixing Elements in a List
 
 Question: Write a Python programme that randomly shuffles the list elements entered by the user. Hint: You can use the random.shuffle() function.
+
+NOTE = It would be more useful for you to look at the codes of the answers after doing the homework I have given you in terms of improving yourself.
